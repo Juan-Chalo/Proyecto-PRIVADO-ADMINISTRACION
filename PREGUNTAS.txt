@@ -1,0 +1,11 @@
+PORQUE CONECTO DIRECTAMENTE LOS DEPARTAMENTOS DEL RAUTER AL SWITCH? PORQUE NO USO RAUTER INTERMEDIO? 
+
+-Un switch lo unico que hace es para interconectar los dispositivos, y el rauter sirve para comunicarse con el exterior, no hay necesidad de tener mucho rauter, porque solo se necesitaria uno para la comunicacion externa, y el poner mas incrementa el costo.
+
+
+cable cruzado ( --------) sirve para conectar dispositivos similares..
+
+-un cable directo es cuando se conectan dos dispositivos distintos.
+
+
+hya topologias de estrella en cada hotel, todo va a un mismo punto
